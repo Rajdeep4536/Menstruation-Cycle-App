@@ -49,17 +49,7 @@ Menstruated is a place where women share their first-period stories, feelings, e
 - [x] Frequently asked questions
 - [x] Contact section
 
-## Folder Structure  📒
-* [Project](https://github.com/Rajdeep4536/Menstruated/tree/master/Home)
-* Apps
-    - [HomePage](https://github.com/yashikajotwani12/Menstruated/tree/master/Home)
-    - [AppBlog](https://github.com/yashikajotwani12/Menstruated/tree/master/App_Blog)
-    - [AppLogin](https://github.com/yashikajotwani12/Menstruated/tree/master/App_Login)
-    - [Polling App](https://github.com/yashikajotwani12/Poll)
-    - [PeriodsDateReminder](https://github.com/yashikajotwani12/PeriodsDateReminder)
-    - [Chatting App](https://github.com/yashikajotwani12/LetsChat)
-* [Static Files](https://github.com/yashikajotwani12/Menstruated/tree/master/static)
-* [Templates](https://github.com/yashikajotwani12/Menstruated/tree/master/templates)
+
 
 
 ## Future Prospects:

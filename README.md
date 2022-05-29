@@ -50,7 +50,7 @@ Menstruated is a place where women share their first-period stories, feelings, e
 - [x] Contact section
 
 ## Folder Structure  📒
-* [Project](https://github.com/yashikajotwani12/Menstruated/tree/master/StainStrong)
+* [Project](https://github.com/Rajdeep4536/Menstruated/tree/master/Home)
 * Apps
     - [HomePage](https://github.com/yashikajotwani12/Menstruated/tree/master/Home)
     - [AppBlog](https://github.com/yashikajotwani12/Menstruated/tree/master/App_Blog)
@@ -88,8 +88,8 @@ Menstruated is a place where women share their first-period stories, feelings, e
 <!-- 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/icB4Uq4orRc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 
-## YouTube Vedio:
-[![ Explanation YouTube vedio ](http://img.youtube.com/vi/icB4Uq4orRc/0.jpg)](https://www.youtube.com/embed/icB4Uq4orRc)
+## YouTube Video:
+[![ Explanation YouTube video ](http://img.youtube.com/vi/icB4Uq4orRc/0.jpg)](https://www.youtube.com/embed/icB4Uq4orRc)
 
 
  <details>

@@ -1,0 +1,209 @@
+{% extends 'Base.html' %}
+
+{% load custom_filters %}
+{% load static %}
+{% block title %} Home {% endblock title %}
+
+{% block body_block %}
+
+<div class="landing-page">
+    <div class="upperlanding">
+
+        <h1> <span>Menstruated</span></h>
+
+    </div>
+
+    <div class="lowerlanding">
+        <img src="{% static 'Home/images/14.png' %}" alt="">
+    </div>
+
+</div>
+<div class="Aboutus">
+    <h1>About Us</h1>
+    <div class="aboutusmain">
+
+
+        <div class="aboutusimg">
+
+            <img src="{% static 'Home/images/blooddropre.png' %}" alt="">
+
+        </div>
+        <div class="aboutuscontent">
+
+            <p>Hey strong women! Menstruated is a platform where we all unite to share our first-period stories, feelings, emotions through blogs. You can track your periods and get notified early through the mail. You should know that you are not alone in the fight against pcods by-polls. You can know the myths/facts, self-care during periods, and much much more! You go, girls.</p>
+
+        </div>
+        <div class="aboutusimg">
+
+            <img src="{% static 'Home/images/blooddropre.png' %}" alt="">
+
+        </div>
+    </div>
+</div>
+<div class="reminder">
+    <div class="imgrem">
+        <img src="{% static 'Home/images/menstrual-calendar.jpg' %}" alt="">
+
+    </div>
+    <div class="contentrem">
+        <h2>Track Your dates</h2>
+        <p>Don't forget your date, Register yourself and get mails on your upcoming periods. </p>
+        <a href="https://remindmemyperiods.herokuapp.com/"><button class="custom-btn btn-2">Explore</button></a>
+
+    </div>
+
+</div>
+<div class="Blogmore">
+    <h1>Explore Blogs</h1>
+    <div class="blogmain">
+        <div class="blogimg">
+            <img src="{% static 'Home/images/18.png' %}" alt="">
+
+        </div>
+        <div class="blogcontent">
+
+            <p>Blogs are the ways to communicate and share your thoughts. Explore how others dealt with their periods, getting stain stories, myths about periods and much more, share your experience too.</p>
+            <a href="{% url 'App_Blog:blog_list' %}"><button class="custom-btn btn-2">Explore</button></a>
+
+        </div>
+        <div class="blogimg">
+            <img src="{% static 'Home/images/18.png' %}" alt="">
+
+        </div>
+    </div>
+
+</div>
+<div class="ever">
+    <h1>Let's talk about it</h1>
+<div class="everything">
+
+   
+    <div class="card">
+        <div class="card-content">
+            <h2 class="card-title">FAQ's</h2>
+            <p>Questions about periods, PMS and more stuff that might be a doubt to you.
+
+            </p>
+            <a href="{% url 'Home:faq' %}"><button class="custom-btn btn-2">Explore</button></a>
+
+        </div>
+
+    </div>
+   
+    <div class="card">
+        <div class="card-content">
+            <h2 class="card-title">PCOD/PCOS</h2>
+            <p>Pcos (Polycystic Ovary Syndrome), is common among women nowadays, let's look at it in more detail.
+                
+                
+            </p>
+            <a href="{% url 'Home:pcod' %}"><button class="custom-btn btn-2">Explore</button></a>
+
+        </div>
+
+    </div>
+   
+    <div class="card">
+        <div class="card-content">
+            <h2 class="card-title">Self Care</h2>
+            <p>“Taking care of our personal self is not a luxury but an essential need just as food and water!”
+                
+            </p>
+            <a href="{% url 'Home:selfcare' %}"><button class="custom-btn btn-2">Explore</button></a>
+
+        </div>
+
+    </div>
+</div>
+
+</div>
+
+<div class="Talkabout">
+    <h1>Lets Chat</h1>
+    <div class="mainchat">
+        <div class="rightchat">
+            <img src="{% static 'Home/images/35.png' %}" alt="">
+            
+    
+        </div>
+
+        <div class="leftchat">
+           
+            <p>
+             Lets us speak to each other and discuss outspokenly whatever we feel like. Lets Chat and make everything familier and 
+             nothing private that people or many girls itself are shy to speak about.
+            </p>
+            <a href="https://letsuschat.herokuapp.com/"><button class="custom-btn btn-2">Lets Chat</button></a>
+    
+        </div>
+        <div class="rightchat">
+            <img src="{% static 'Home/images/35.png' %}" alt="">
+            
+    
+        </div>
+       
+
+    </div>
+    
+    
+   
+
+</div>
+<div class="poll">
+    <h1>Poll To know</h1>
+    <div class="pollmain">
+        <div class="pollimg">
+            <img src="{% static 'Home/images/34.png' %}" alt="">
+        </div>
+        <div class="pollcontent">
+            <p> Here is the poll section, where actually you can see the graph and results of a particular topic as many as same as you have polled and so you can also poll.</p>
+            <a href="https://polledin.herokuapp.com/"><button class="custom-btn btn-2">Poll Here</button></a>
+        </div>
+
+    </div>
+
+</div>
+<div class="contacthome">
+    <h1>Contact Us</h1>
+    <div class="contactmain">
+        <div class="contactcon">
+            <p>Contact me if you find anything you want to share, either it be questions, issues or enhancements regarding this website.</p>
+
+            <a href="{% url 'Home:contact' %}"><button class="custom-btn btn-2">Contact us</button></a>
+
+        </div>
+       <div class="contactimg">
+            <img src="{% static 'Home/images/contact.png' %}" alt="">
+        </div>
+    </div>
+</div>
+<footer class="footermain">
+    <div class="footerhead">
+        <h1> <span>M</span>enstruated</h>
+    </div>
+    <div class="footermaini">
+        <div class="footerimg">
+            <img src="{%  static 'Home/images/24.png' %}" alt="">
+        </div>
+    
+    
+        <div class="footercontent">
+           
+            <p>copyright ©  2021-2023</p>
+    
+        </div>
+    
+        <div class="footerimg">
+            <img src="{%  static 'Home/images/24.png' %}" alt="">
+        </div>    
+
+    </div>
+        
+   
+
+  
+</footer>
+
+
+
+{% endblock %}

@@ -49,17 +49,7 @@ Menstruated is a place where women share their first-period stories, feelings, e
 - [x] Frequently asked questions
 - [x] Contact section
 
-## Folder Structure  📒
-* [Project](https://github.com/Rajdeep4536/Menstruated/tree/master/Home)
-* Apps
-    - [HomePage](https://github.com/yashikajotwani12/Menstruated/tree/master/Home)
-    - [AppBlog](https://github.com/yashikajotwani12/Menstruated/tree/master/App_Blog)
-    - [AppLogin](https://github.com/yashikajotwani12/Menstruated/tree/master/App_Login)
-    - [Polling App](https://github.com/yashikajotwani12/Poll)
-    - [PeriodsDateReminder](https://github.com/yashikajotwani12/PeriodsDateReminder)
-    - [Chatting App](https://github.com/yashikajotwani12/LetsChat)
-* [Static Files](https://github.com/yashikajotwani12/Menstruated/tree/master/static)
-* [Templates](https://github.com/yashikajotwani12/Menstruated/tree/master/templates)
+
 
 
 ## Future Prospects:
@@ -76,4 +66,18 @@ Menstruated is a place where women share their first-period stories, feelings, e
 | ![Period date reminder](https://user-images.githubusercontent.com/77020164/124214971-c5d59280-db10-11eb-9aed-2cc00df9d296.png)| ![polls](https://user-images.githubusercontent.com/77020164/124214993-d128be00-db10-11eb-98a8-58264ccc7c17.png) | ![contactsection](https://user-images.githubusercontent.com/77020164/124214900-a2124c80-db10-11eb-8ffb-23fb22e67857.png) | ![Blog List](https://user-images.githubusercontent.com/77020164/124214942-b5bdb300-db10-11eb-90e6-a348769bbb44.png) |
 | PeriodDateReminder | Pollstoknow | Contact section | Blog List |
 
+<<<<<<< HEAD
 #just check
+=======
+<!-- 
+  [![ Explanation YouTube vedio] (![Screenshot (76)](https://user-images.githubusercontent.com/77020164/126889748-df0c72fa-c579-4c23-8b1d-1248dc2c3c5c.png))](https://youtu.be/icB4Uq4orRc) 
+ -->
+<!-- ![Screenshot (76)](https://user-images.githubusercontent.com/77020164/126889748-df0c72fa-c579-4c23-8b1d-1248dc2c3c5c.png) -->
+
+
+<!-- 
+[![ Explanation YouTube vedio ](![Screenshot (76)](https://user-images.githubusercontent.com/77020164/126889609-224b13d8-2ceb-4309-9e86-07b296aa5fdc.png)
+)](https://youtu.be/icB4Uq4orRc) -->
+<!-- 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/icB4Uq4orRc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+>>>>>>> e33dc207b5f8e9abea90e35dc63e70db7222e0cc
